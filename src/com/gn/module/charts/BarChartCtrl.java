@@ -28,7 +28,7 @@ import java.util.ResourceBundle;
  * Create on  21/10/2018
  * Version 1.0
  */
-public class BarChartCtrl implements Initializable {
+public class  BarChartCtrl implements Initializable {
 
     @FXML
     private BarChart<String, Number> barChart;

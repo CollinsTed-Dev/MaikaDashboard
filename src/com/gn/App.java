@@ -96,7 +96,7 @@ public class App extends Application {
         load("controls", "progressbar");
         load("controls", "progressindicator");
         load("controls", "pagination");
-        load("controls", "mediaview");
+//        load("controls", "mediaview");
         load("controls", "listview");
         load("controls", "label");
         load("controls", "hyperlink");
